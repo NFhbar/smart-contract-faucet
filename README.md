@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/NFhbar/smart-contract-faucet.svg?branch=master)](https://travis-ci.org/NFhbar/smart-contract-faucet)
 [![Coverage Status](https://coveralls.io/repos/github/NFhbar/smart-contract-faucet/badge.svg?branch=master)](https://coveralls.io/github/NFhbar/smart-contract-faucet?branch=master)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/NFhbar/smart-contract-faucet/pulls)
 
 </div>
 
@@ -13,6 +14,8 @@ Smart contract faucet for [Avocado Network](https://github.com/AvocadoNetwork).
 Rinkeby Instance [here](https://rinkeby.etherscan.io/address/0x8c2451d9bebc7c18ca89fdf7db8692d51605c04b).
 
 Gist available [here](https://gist.github.com/NFhbar/e2112d0d909881e5c82b2c3d6a1c5e75).
+
+Medium article [here](https://medium.com/coinmonks/avocado-network-token-faucet-94973204d288).
 
 The Faucet contract allows senders to send and receive ERC20Basic tokens.
 
